@@ -1,1 +1,1 @@
-# VirtualPet-Master
+# VirtualPet Master
